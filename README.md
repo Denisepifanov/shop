@@ -1,3 +1,2 @@
-# React js furniture store
-## Class components
-
+#The React furniture store page.Components
+##To get started, npm start
