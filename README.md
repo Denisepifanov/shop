@@ -1,2 +1,3 @@
-#The React furniture store page.Components
-##To get started, npm start
+The React furniture store React.Components
+__________________________________________
+To get started, npm start
