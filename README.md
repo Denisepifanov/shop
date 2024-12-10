@@ -1,2 +1,2 @@
-# Shop 
+# React js furniture store
 
